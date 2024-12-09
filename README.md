@@ -1,4 +1,4 @@
-# Mtb-GammaCA-Mechanism-Cheminformatics
+# Mycobacterium tuberculosis Gamma CA inhibitor design through computer-aided drug design [CADD]
 ![Graphical Abstract ](https://github.com/user-attachments/assets/03670641-6c5c-4456-9f95-2631b5633543)
 
 
